@@ -1,10 +1,10 @@
-# SHAC-CSTR: Soft Hierarchical Actor-Critic for CSTR Control
+# SHAC-CSTR: Short Horizon Actor-Critic for CSTR Control
 
 A reinforcement learning approach for optimal control of Continuous Stirred Tank Reactors (CSTR) under time-varying electricity pricing.
 
 ## Overview
 
-This repository implements a modified Soft Hierarchical Actor-Critic (SHAC) algorithm for controlling a CSTR system with the objective of minimizing operational costs while maintaining safe operation within constraint boundaries.
+This repository implements a modified Short Horizon Actor-Critic (SHAC) algorithm for controlling a CSTR system with the objective of minimizing operational costs while maintaining safe operation within constraint boundaries.
 
 ### Key Features
 
