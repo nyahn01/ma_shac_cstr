@@ -163,32 +163,14 @@ Use conventional commits:
 - `test: add tests`
 - `chore: maintenance tasks`
 
-## Citation
-
-If you use this code in your research, please cite:
-
-```bibtex
-@article{your_paper_2024,
-  title={Your Paper Title},
-  author={Your Name},
-  journal={Journal Name},
-  year={2024}
-}
-```
-
-## License
-
-[Specify your license here]
 
 ## Contact
 
-- Author: [Your Name]
-- Email: [Your Email]
-- Institution: [Your Institution]
+- Email: na.ahn@rwth-aachen.de
+
+## License
 
 ## Acknowledgments
-
-- [Any acknowledgments]
 
 ## TODO
 
