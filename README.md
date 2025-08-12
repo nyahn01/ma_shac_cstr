@@ -1,6 +1,6 @@
-# SHAC-CSTR: Soft Hierarchical Actor-Critic for CSTR Control
+# SHAC-CSTR: Short Horizon Actor-Critic for CSTR Control 
 
-🎓 **Master's Thesis Project** | 🏭 **Process Control** | 🤖 **Reinforcement Learning**
+🎓 **Master's Thesis** | 🏭 **Process Control** | 🤖 **Reinforcement Learning**
 
 A reinforcement learning approach for optimal control of Continuous Stirred Tank Reactors (CSTR) under time-varying electricity pricing.
 
@@ -8,7 +8,7 @@ A reinforcement learning approach for optimal control of Continuous Stirred Tank
 
 ## Project Overview
 
-This repository implements a modified Soft Hierarchical Actor-Critic (SHAC) algorithm for controlling a CSTR system with the objective of minimizing operational costs while maintaining safe operation within constraint boundaries.
+This repository implements a modified Short Horizon Actor-Critic (SHAC) algorithm for controlling a CSTR system with the objective of minimizing operational costs while maintaining safe operation within constraint boundaries.
 
 **Key Achievements:**
 - ✅ Developed novel RL approach combining economic optimization with safety constraints
@@ -66,26 +66,4 @@ The implemented SHAC algorithm successfully demonstrates:
 - Economic optimization under varying conditions
 - Robust performance across different scenarios
 
-## Citation
-
-If you use this work in your research, please cite:
-
-```bibtex
-@mastersthesis{your_thesis_2024,
-  title={Soft Hierarchical Actor-Critic for CSTR Control under Time-Varying Electricity Pricing},
-  author={Your Name},
-  school={Your University},
-  year={2024}
-}
-```
-
-## Contact
-
-- **Author**: [Your Name]
-- **Email**: [Your Email]
-- **Institution**: [Your University]
-- **LinkedIn**: [Your LinkedIn Profile]
-
 ---
-
-*This project was completed as part of a Master's thesis in [Your Program] at [Your University].*
