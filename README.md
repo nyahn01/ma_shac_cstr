@@ -4,7 +4,7 @@
 
 A reinforcement learning approach for optimal control of Continuous Stirred Tank Reactors (CSTR) under time-varying electricity pricing.
 
-📋 **[View Presentation](presentations/)** | 📊 **[See Results](results/)** | 💻 **[Browse Code](source/)**
+📋 **[View Presentation](presentations/)** | 💻 **[Browse Code](source/)**
 
 ## Project Overview
 
